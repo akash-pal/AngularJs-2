@@ -1,7 +1,4 @@
-![](http://i.imgur.com/CqXcsZ9.png)
-
-This is a base template for Angular 2. It contains the core files you will need when starting an Angular 2 project.
-To get started, follow the instructions below.
+This is a demo app in angularjs 2 with typescript
 
 ### Install Node.js and npm
 
@@ -14,7 +11,7 @@ https://nodejs.org/en/download/
 
 Clone this repo into a new project folder. You may also download it as a ZIP file.
 
-https://github.com/buckyroberts/angular-2-template.git
+https://github.com/akash-pal/AngularJs-2.git
 
 ### Install Libraries and Dependencies
 
@@ -35,14 +32,5 @@ Now you can start the TypeScript compiler in watch mode and run lite-server with
 
 - [angular.io](https://angular.io/) - Official website for Angular and Angular 2.
 - [Getting Started](https://angular.io/docs/ts/latest/quickstart.html) - Quick guide on how to get up and running.
-- [Forum](https://thenewboston.com/forum/category.php?id=111) - For Angular 2 related questions, news, and discussion.
 - [Reddit](https://www.reddit.com/r/Angular2/) - Subreddit for Google's next iteration of AngularJS.
 
-### Other
-
-- [thenewboston](https://thenewboston.com/)
-- [Facebook](https://www.facebook.com/TheNewBoston-464114846956315/)
-- [Twitter](https://twitter.com/bucky_roberts)
-- [Google+](https://plus.google.com/+BuckyRoberts)
-- [reddit](https://www.reddit.com/r/thenewboston/)
-- [Donate](https://www.patreon.com/thenewboston)
